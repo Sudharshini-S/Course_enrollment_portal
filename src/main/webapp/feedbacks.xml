@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feedbacks>
+    <feedback>
+        <id>101</id>
+        <name>Sudhu</name>
+        <course>Web Development</course>
+        <rating>5</rating>
+        <comment>Excellent hands-on projects.</comment>
+    </feedback>
+    <feedback>
+        <id>102</id>
+        <name>Priya</name>
+        <course>Data Science</course>
+        <rating>4</rating>
+        <comment>Machine learning models covered are good.</comment>
+    </feedback>
+    <feedback>
+        <id>103</id>
+        <name>Sree</name>
+        <course>UI / UX Design</course>
+        <rating>2</rating>
+        <comment>Too fast for beginners.</comment>
+    </feedback>
+    <feedback>
+        <id>104</id>
+        <name>Darsani</name>
+        <course>Cyber Security</course>
+        <rating>5</rating>
+        <comment>Lab sessions were highly practical.</comment>
+    </feedback>
+    <feedback>
+        <id>105</id>
+        <name>Pooja</name>
+        <course>Web Development</course>
+        <rating>3</rating>
+        <comment>Need more hands-on project.</comment>
+    </feedback>
+</feedbacks>
